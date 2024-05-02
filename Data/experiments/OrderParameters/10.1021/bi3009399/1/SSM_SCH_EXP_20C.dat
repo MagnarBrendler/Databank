@@ -1,0 +1,12 @@
+# SSM order parameters calculated from the SI tables in Matsumori et al., Biochemistry (2012) DOI: 10.1021/bi3009399
+# The order parameters were calculated by dividing the quadrupolar couplings by 126 kHz
+# T = 20 C
+
+
+# SSM mole fraction 1
+
+#sphingosine chain
+M_G1C15_M M_G1C15H1_M 0.148
+M_G1C15_M M_G1C15H2_M 0.148
+M_G1C15_M M_G1C15H3_M 0.148
+
