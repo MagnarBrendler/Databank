@@ -1,9 +1,0 @@
-# GALCER(18:1/16:0) order parameters calculated from the SI graphs in Speyer et al., Biochemistry (1989) DOI: 10.1021/bi00451a003
-# The order parameters were calculated by dividing the quadrupolar couplings by 126 kHz
-# T = 87 C
-
-# GALCER:CHOL GALCER mole fraction 0.6
-
-# fatty acid chain 
-M_G2C12_M M_G2C12H1_M 0.338
-M_G2C12_M M_G2C12H2_M 0.338
