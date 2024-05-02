@@ -1,0 +1,10 @@
+# GALCER(18:1/16:0) order parameters calculated from the SI graphs in Skarjune and Oldfield, Biochimica ct Biophysica Acta (1979) DOI: 10.1016/0005-2736(79)90043-9
+# The order parameters were calculated by dividing the quadrupolar couplings by 126 kHz
+# T = 88 C
+
+# GALCER:CHOL GALCER mole fraction 0.5
+
+# fatty acid chain 
+M_G2C16_M M_G2C16H1_M 0.113
+M_G2C16_M M_G2C16H2_M 0.113
+M_G2C16_M M_G2C16H3_M 0.113
